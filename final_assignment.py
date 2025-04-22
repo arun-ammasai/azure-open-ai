@@ -44,7 +44,7 @@ if uploaded_file:
         deployment="text-embedding-ada-002",
         model="text-embedding-ada-002",
         azure_endpoint="https://stm-openai.openai.azure.com/",
-        openai_api_key="8cG87C825A2NyejvJBLZEjKImp4KAgwgQpBnE8DHS4UD0hnmHgCCJQQJ99BDACYeBjFXJ3w3AAABACOG18AL",
+        openai_api_key="test",
         chunk_size=1,
         validate_base_url=False)
 
