@@ -1,0 +1,20 @@
+openai
+langchain
+langchain-anthropic
+langchain-openai
+langchain-community
+google-generativeai
+requests
+streamlit
+pymupdf
+faiss-cpu
+# from langchain_openai import ChatOpenAI, OpenAIEmbeddings from langchain_core.prompts 
+# import ChatPromptTemplate from langchain_community.chat_message_histories 
+# import StreamlitChatMessageHi from langchain_core.callbacks.base 
+# import BaseCallbackHandler from Tanachain_community. documerk:_loaders 
+# import PyMuPDFLoader fr Loading... in_text_splitters 
+# import RecursiveCharacterTextSplitter fröm langchain_community.vectorstores.chroma 
+# import Chroma from operator import itemgetter import streamlit as st 
+# import tempfile import os
+# import pandas as pd
+
