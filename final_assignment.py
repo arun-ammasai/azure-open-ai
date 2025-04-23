@@ -43,7 +43,7 @@ if uploaded_file:
     embeddings = AzureOpenAIEmbeddings(
         deployment="text-embedding-ada-002",
         model="text-embedding-ada-002",
-        azure_endpoint="https://stm-openai.openai.azure.com/",
+        azure_endpoint="azure_endpoint",
         openai_api_key="test",
         chunk_size=1,
         validate_base_url=False)

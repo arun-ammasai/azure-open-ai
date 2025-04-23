@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = OpenAI(
-    api_key= "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"
+    api_key= "openai-endpoint"
 )
 
 response = client.responses.create(
